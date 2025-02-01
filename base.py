@@ -1,7 +1,7 @@
 import telebot, time, random, os
 from PIL import Image
 
-bot = telebot.TeleBot('7444107085:AAFzRY_6hjjoR2z2cgySxnd6Y1DzYgEpt0Y')
+bot = telebot.TeleBot('')
 
 from telebot import types
 
