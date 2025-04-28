@@ -16,7 +16,7 @@ connection.commit()
 connection.close()
 
 
-bot = telebot.TeleBot('7444107085:AAH3lLjWfR9ri_G2KPc16je7qchNAMfb3Ys')
+bot = telebot.TeleBot('')
 
 from telebot import types
 
